@@ -1,2 +1,2 @@
 # Retro-Search
-OpenGL, c++
+This is a game created with c++ using OpenGL library.
